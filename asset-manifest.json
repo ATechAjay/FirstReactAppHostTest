@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FirstReactAppHostTest/static/css/main.5aada85b.css",
+    "main.js": "/FirstReactAppHostTest/static/js/main.e90b819f.js",
+    "index.html": "/FirstReactAppHostTest/index.html",
+    "main.5aada85b.css.map": "/FirstReactAppHostTest/static/css/main.5aada85b.css.map",
+    "main.e90b819f.js.map": "/FirstReactAppHostTest/static/js/main.e90b819f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aada85b.css",
+    "static/js/main.e90b819f.js"
+  ]
+}
